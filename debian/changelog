@@ -1,3 +1,9 @@
+libblocksruntime (0.1-1.0~upfmipal1) precise; urgency=low
+
+  * Rebuild with exported weak symbols to work along with libobjc2.
+
+ -- Esteve Fernandez <esteve@apache.org>  Fri, 09 Nov 2012 13:32:21 +0000
+
 libblocksruntime (0.1-1) unstable; urgency=low
 
   * Initial release from compiler-rt r104787 sources (Closes: #584190)
